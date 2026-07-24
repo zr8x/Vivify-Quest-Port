@@ -2,7 +2,7 @@
 # Vivify Quest Port
 ------
 ## Instructions for building the project yourself
-(You can build your own, just make sure to give credit)
+(You can build your own .qmod, just make sure to give credit if distributing)
 
 ## Requirements for build
 * [Quest Package Manager](https://github.com/sc2ad/QuestPackageManager) (QPM)
@@ -21,11 +21,11 @@ If you have QPM installed but throws an error, use `.\qpm` instead
 *For the best experience, mod your game using [ModsBeforeFriday](https://mbf.bsquest.xyz/) on version 1.40.8*
 
 *A [tutorial](https://bsmg.wiki/quest/modding-with-mbf.html) by the Beat Saber Modding Group (BSMG)'s wiki for those who are new to this*
-### Through ModsBeforeFriday (MBF):
-1. Download the latest `vivify.qmod` file from the Releases tab or build it yourself, shown above
-2. Once you are modded, drag and drop `vivify.qmod` onto MBF with your headset connected
-3. Alternatively, you can click the `ADD FILES` button and select the qmod
-4. Safely disconnect your headset and load up Beat Saber
+### Through ModsBeforeFriday (MBF)
+1. Download the latest `vivify.qmod` file from the **Releases** tab, or build it yourself as shown above.
+2. Once your headset is modded, connect it to your computer and drag and drop `vivify.qmod` into MBF.
+3. Alternatively, click the **ADD FILES** button and select the `.qmod` file.
+4. Safely disconnect your headset, then launch Beat Saber.
 
 ## .qmod Dependencies
 **MOST OF THESE ARE CORE MODS INSTALLED WHEN YOU MOD USING MBF. INSTALL ANY MISSING MODS.**
@@ -60,7 +60,7 @@ If you have QPM installed but throws an error, use `.\qpm` instead
 ## Credits
 axo-lotl. (2026). GitHub - *axo-lotl/Vivify-Quest: vivify quest port (new repo for some reason).* GitHub. https://github.com/axo-lotl/vivify-quest
 
-This project contains code that was adapted from an open-source repository by [LookingForScripts1](https://github.com/Lookingforscripts1) that has since been deleted. Because the repository is no longer available, I am unfortunately unable to identify or link to the original repository.
+*This project contains code that was adapted from an open-source repository by [LookingForScripts1](https://github.com/Lookingforscripts1) that has since been deleted. Because the repository is no longer available, I am unfortunately unable to identify or link to the original repository.*
 
 ### Special thanks
 Thank you to axo-lotl for giving version 0.4.0 early to meh :)
